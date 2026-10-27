@@ -41,6 +41,6 @@ Post in the ReRAC Discord, or open an issue here. Most useful: what you did, wha
 ## Source and credits
 
 - RAC Maker is built on ReRAC by the ReRAC contributors (ISC license): https://github.com/re-rac/rerac
-- Editor source: branch [`rac-maker`](https://github.com/thrivetoday/rerac/tree/rac-maker) of my ReRAC fork. Launcher tile: branch [`rac-maker-tile`](https://github.com/thrivetoday/rerac-launcher/tree/rac-maker-tile) of my launcher fork.
+- Editor source: branch [`rac-maker`](https://github.com/thrivetoday/rerac/tree/rac-maker) of my ReRAC fork. The preview launcher is the [ReRAC Launcher](https://github.com/re-rac/rerac-launcher) (ISC) with a RAC Maker tile added; its source will follow.
 - This build also has my [DualSense support](https://github.com/thrivetoday/dualsense-for-rerac) (rumble, adaptive triggers). Gadgetron Movement System idea: roxas997.
 - Ratchet & Clank belongs to Sony Interactive Entertainment and Insomniac Games. Maps hold no game assets, only references; you need your own copy of the game.
